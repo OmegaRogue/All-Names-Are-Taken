@@ -5,6 +5,7 @@ AVP
 AnimationAPI
 Applied Energistics 2
 Ars Magica 2
+AsieLib
 Automagy
 Balkon's WeaponMod
 BiblioCraft
@@ -20,13 +21,17 @@ CoFH Core
 CoFH Lib
 Compact Machines
 ComputerCraft
+Computronics
 Custom NPCs
 DecoCraft2
+Dense Ores
 Draconic Evolution
-Chiridion
+Enchiridion
 Ender IO
+Ender Storage
 Ender Core
-Ender Storage Extra Utilities
+EnderTech
+Extra Utilities
 Extra Cells 2
 FastCraft
 Forbidden Magic
@@ -35,6 +40,9 @@ FTBLib
 Galacticraft Planets
 Galacticraft Core
 Gravi Suite
+Hardcore Questing Mode
+Headcrumbs
+HoloInventory
 ICBM
 iChunUtil
 In-Game Wiki Mod
@@ -42,6 +50,7 @@ Industrial Craft
 Inventory Tweaks
 JourneyMap
 LanteaCraft
+(Lockdown)
 Malisis Core
 Malisis Doors
 Mantle
@@ -62,6 +71,8 @@ Nuclear Control 2
 Numina
 OpenBlocks
 OpenComputers
+OpenEye
+Open Glasses
 Open Mods Lib
 Open Peripheral Addons
 Open Peripheral Core
@@ -76,6 +87,9 @@ Project Red - Integration
 Project Red - Lighting
 Project Red - Mechanical
 Project Red - World
+Quadrum
+Quick Hotbar
+Resource Loader
 SG Craft
 Thaumcraft
 Thaumcraft NEI Plugin
@@ -94,3 +108,4 @@ Waila Harvestability
 WarpDrive
 Witchery
 Witching Gadgets
+Ztones
